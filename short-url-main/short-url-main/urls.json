@@ -1,0 +1,20 @@
+{
+    "UBitox": {
+        "id": "UBitox",
+        "url": "https://www.google.com/search",
+        "timestamp": 1656189578128,
+        "ipAddress": "::ffff:127.0.0.1"
+    },
+    "eUy8aG": {
+        "id": "eUy8aG",
+        "url": "http://amazon.es",
+        "timestamp": 1656194292276,
+        "ipAddress": "::ffff:127.0.0.1"
+    },
+    "lrwrRX": {
+        "id": "lrwrRX",
+        "url": "https://www.google.com/search",
+        "timestamp": 1656194829352,
+        "ipAddress": "::ffff:127.0.0.1"
+    }
+}
